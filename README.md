@@ -1,7 +1,8 @@
 # Linked-List-Movie-App
 
 Implementation of Circular single and circular doubly linked list.
-And implementation of a movie app using linked lists. The things you can do is explained down below.
+And implementation of a movie app using linked lists. There is no frontend in this project so you should compile and run it on cmd.
+The things you can do is explained down below.(And also 1 txt included in the project for example.)
 
 ### *There will be one input file which called commands.txt to creating linked list. commands.txt has include some commands such as:*
 
